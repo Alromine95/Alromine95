@@ -4,17 +4,13 @@
   <img src="https://vercel.app" width="100%" />
 
   <!-- Neon Typewriter -->
-  <img src="https://demolab.com⚡+Turning+caffeine+into+code;🚀+Building+next-gen+web+apps;👾+UI/UX+and+Design+Systems" alt="Typing SVG" />
-
-  <p align="center">
-    <a href="https://linkedin.com"><img src="https://shields.io" /></a>
-    <a href="https://twitter.com"><img src="https://shields.io" /></a>
-  </p>
+  <img src="https://demolab.com⚡+Android+ROM+Developer;🛠️+Building+Custom+Kernels;👾+Optimizing+Device+Trees" alt="Typing SVG" />
 
   <br />
 
   <!-- Clean Uniform Tech Badges -->
   <h3>⚡ STACK & TOOLS</h3>
+  <img src="https://shields.io" />
   <img src="https://shields.io" />
   <img src="https://shields.io" />
   <img src="https://shields.io" />
